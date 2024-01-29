@@ -1,2 +1,3 @@
-Hello this task is a my first project!/n
-this task for a *Basic of Computer Programming*.
+Hello this task is a my first project!
+
+This task for a *Basic of Computer Programming*.
